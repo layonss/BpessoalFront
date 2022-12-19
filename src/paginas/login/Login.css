@@ -1,0 +1,14 @@
+.textos1{
+    font-weight: bold;
+}
+.text-decorator-none{
+    text-decoration: none;
+}
+.imagem{
+   background-image: url(https://observadamente.files.wordpress.com/2019/01/0_xkko0rziurngoawu-1.jpeg);
+   background-repeat: no-repeat;
+   width: 100vh;
+   min-height: 110vh;
+   background-size:197%;
+    background-position: center;
+}

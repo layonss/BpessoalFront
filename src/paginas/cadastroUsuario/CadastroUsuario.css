@@ -1,0 +1,15 @@
+.imagem2{
+    background-image: url(https://2.bp.blogspot.com/-rYtqIrDYZ80/V6z5OV0oXUI/AAAAAAAALiY/83_9el7AWJEtMw5LqgtNhDLg4qz5w2JWQCLcB/s1600/savannah-1326836_1920.jpg);
+    background-repeat: no-repeat;
+    width: 100vh;
+    min-height: 100vh;
+    background-size: cover;
+     background-position: center;
+ }
+
+ .textos2{
+    font-weight: bold !important;
+ }
+ .btnCancelar{
+    margin-right: 20px !important;
+ }
